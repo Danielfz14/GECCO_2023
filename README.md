@@ -15,9 +15,9 @@ Authors: _Daniel F. Zambrano-Gutierrez, Jorge M. Cruz-Duarte, Herman Castañeda_
 
 ## Files
 * **Notebook**
-  *[Hyper-heuristic process](https://github.com/Danielfz14/GECCO_671/blob/main/HH_deslizante.ipynb)
-  *[Test with the MH_* operator](https://github.com/Danielfz14/GECCO_671/blob/main/deslizanteHH.ipynb)
-  *[Testing of the MHS Classical MHS](https://github.com/Danielfz14/GECCO_671/blob/main/Gecco-PSO-GA.ipynb)
+*[Hyper-heuristic process](https://github.com/Danielfz14/GECCO_671/blob/main/HH_deslizante.ipynb)
+*[Test with the MH_* operator](https://github.com/Danielfz14/GECCO_671/blob/main/deslizanteHH.ipynb)
+*[Testing of the MHS Classical MHS](https://github.com/Danielfz14/GECCO_671/blob/main/Gecco-PSO-GA.ipynb)
     
 * [Code for simulating the converter and controller in MATLAB](https://github.com/Danielfz14/GECCO_671/blob/main/HHmododeslizante2.m)
 * [Simulink model](https://github.com/Danielfz14/GECCO_671/blob/main/s1.slx)
