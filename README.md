@@ -17,5 +17,5 @@ Authors: _Daniel F. Zambrano-Gutierrez, Jorge M. Cruz-Duarte, Herman Castañeda_
 * **Notebook**
 * **Code for simulating the converter and controller in MATLAB**
 * **Simulink model**
-* **Data**
+* [Data](https://github.com/Danielfz14/GECCO_671/tree/main/Datos)
 
