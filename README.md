@@ -1,6 +1,6 @@
-## Manuscript 671 – Result & Simulations
+# Manuscript 671 – Result & Simulations
 
-Welcome to the Manuscript-671---Result-Simulation-GECCO-2023_
+Welcome to the Manuscript 671: Result Simulation GECCO 2023
 
 This repository contains the resulting datasets of the work entitled **Automatic Hyper-Heuristic to Generate Heuristic-based Adaptive**
 **Sliding Mode Controller Tuners for Buck-Boost Converters** presented in GECCO-2023
@@ -9,9 +9,11 @@ Authors: _Daniel F. Zambrano-Gutierrez, Jorge M. Cruz-Duarte, Herman Castañeda_
 
 ## Requirements
 * Python v3.7+
+* Matlab R2022a
 * [CUSTOMHyS framework](https://github.com/jcrvz/customhys.git)
 * [Engine API for Python - MathWorks](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html)
 * Standard modules: os, matplotlib, seaborn, numpy, pandas, scipy.stats
+* Matlab R2022a
 
 ## Files
 * [Hyper-heuristic process](https://github.com/Danielfz14/GECCO_671/blob/main/HH_deslizante.ipynb)
